@@ -70,5 +70,12 @@
 "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
 "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
 }
-]
+],
+    "examples": [{
+        "id": "TrL5TYVcyoc",
+        "des": "Auto Click SMS"
+    }, {
+        "id": "TrL5TYVcyoc",
+        "des": "How to setting Auto clicker"
+    }]
 }
