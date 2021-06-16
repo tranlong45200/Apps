@@ -2,10 +2,10 @@
 "ads": {
 "id_app": "id_app",
 "flury_id": "flury_id",
-"banner_setting": "m4z8detb3u",
-"inter_setting": "q7p0q7n5oh",
-"banner_main": "c0afzjm4fv",
-"inter_main": "g25l079l1t",
+"banner_setting": "e0gkbduf11",
+"inter_setting": "i9z2r9v2oj",
+"banner_main": "l7xkgw8j7e",
+"inter_main": "w7nohcsqvr",
 "banner_setting_new": "",
 "inter_setting_new": "",
 "banner_main_new": "",
@@ -28,7 +28,7 @@
 "is_exists": true,
 "is_show_more": true,
 "isLoading": false,
-"isShowAds": false,
+"isShowAds": true,
 "onlyAdsMe": false,
 "bg": "https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
 },
