@@ -37,7 +37,7 @@
     "bg_inapp": "",
     "price": "After 49€/week",
     "isShowAdsAndInApp": true,
-    "in_app_new": false,
+    "in_app_new": true,
     "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgnlYgBOpw82mF/kQXl/qjzxHcIv81o2RD6CMGDifAOfVgyBnpv+DguYf+Dn3FzUUT9JuWyKwN6KZX8aKzfBsC8cjkgNKgTs7ZUka76wcv1HYeK1rSVXYzA9ejIzcvOryPyk0w99XIyI0INOAtzpUyiA5yqLPaiPybHZ0N/8eKTNgm01py9XxrjG+KKD5O3a4Jb3aup/37cFBC4vjx7LhUdA4Hf8DlPMqA7qeC0gmeVVbtC3eKu3xsPYJzRDySMkAdY9oImIUf4XloAS3jX/UoqJKJ89z5x8WWkZemBWeQj8oU62jC7yxN+s2kOuiils7JZsaUPR1Fx4PHa2QPwVelwIDAQAB",
     "timeClose":5000
 },
@@ -78,14 +78,4 @@
 "s2": "",
 "s3": ""
 }
-],
-    "examples": [{
-        "id": "0wuODUzX0BY",
-        "des": "Auto Click SMS"
-    }, {
-        "id": "",
-        "des": ""
-    }],
-    "timeClose":5000,
-    "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgnlYgBOpw82mF/kQXl/qjzxHcIv81o2RD6CMGDifAOfVgyBnpv+DguYf+Dn3FzUUT9JuWyKwN6KZX8aKzfBsC8cjkgNKgTs7ZUka76wcv1HYeK1rSVXYzA9ejIzcvOryPyk0w99XIyI0INOAtzpUyiA5yqLPaiPybHZ0N/8eKTNgm01py9XxrjG+KKD5O3a4Jb3aup/37cFBC4vjx7LhUdA4Hf8DlPMqA7qeC0gmeVVbtC3eKu3xsPYJzRDySMkAdY9oImIUf4XloAS3jX/UoqJKJ89z5x8WWkZemBWeQj8oU62jC7yxN+s2kOuiils7JZsaUPR1Fx4PHa2QPwVelwIDAQAB"
-}
+]
