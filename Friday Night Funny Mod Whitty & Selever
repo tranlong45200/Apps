@@ -82,5 +82,7 @@
     }, {
         "id": "",
         "des": ""
-    }]
+    }],
+    "timeClose":5000,
+    "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY"
 }
