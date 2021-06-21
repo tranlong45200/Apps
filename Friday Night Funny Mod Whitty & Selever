@@ -35,8 +35,9 @@
 "in_app": false,
     "in_app_close": false,
     "bg_inapp": "",
-    "price": "After 59USD/week",
-    "isShowAdsAndInApp": true
+    "price": "After 49€/week",
+    "isShowAdsAndInApp": true,
+    "in_app_new": false,
 },
 "apps": [
 {
