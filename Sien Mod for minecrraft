@@ -33,14 +33,14 @@
 "rate": true,
 "bg": "https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw",
 "in_app": false,
-    "in_app_close": flase ,
+    "in_app_close": false ,
     "bg_inapp": "",
     "price": "After 59USD/week",
     "isShowAdsAndInApp": true,
     "in_app_new": true ,
     "timeClose":5000,
-    "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsMyAb72eMaDbsP1nQ/Q97Psh9+l1IeHBH2NZQwhZPLa7ST1MgW/4aick3h3f5IxF7ovKU5K+JwF6GlXQS5ORMhMM3vEDQxAP96sHHvpqN2m9Tpwsz+DDbhJYvEUpHmlLlKcAlvB3H8EZxGCWp7ByQZwtVzBX7elDlkRvbK2KvvrYmHc1FhCHdgldbY9CretJHDeUlh4SJ93anpflQ5AT5uvGrT9WXy9N2TgfuwlJBhNEvsb0hZF/4iK8+VJ3IFXH+ty3MCStuJxELRTP1uLvOeAdA6Az50iyN25GS0eylWLefXp0Jyph1pQShwiD/13WojNJGAD2g/38suqCEaODPwIDAQAB",
-    countrys=[]
+    "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsMyAb72eMaDbsP1nQ/Q97Psh9+l1IeHBH2NZQwhZPLa7ST1MgW/4aick3h3f5IxF7ovKU5K+JwF6GlXQS5ORMhMM3vEDQxAP96sHHvpqN2m9Tpwsz+DDbhJYvEUpHmlLlKcAlvB3H8EZxGCWp7ByQZwtVzBX7elDlkRvbK2KvvrYmHc1FhCHdgldbY9CretJHDeUlh4SJ93anpflQ5AT5uvGrT9WXy9N2TgfuwlJBhNEvsb0hZF/4iK8+VJ3IFXH+ty3MCStuJxELRTP1uLvOeAdA6Az50iyN25GS0eylWLefXp0Jyph1pQShwiD/13WojNJGAD2g/38suqCEaODPwIDAQAB"
+    ,"countrys"=[]
 },
 "apps": [
 {
