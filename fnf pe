@@ -1,0 +1,70 @@
+{
+"ads": {
+"id_app": "id_app",
+"flury_id": "flury_id",
+"banner_setting": "ca-app-pub-5315325291235997/",
+"inter_setting": "ca-app-pub-5315325291235997/",
+"banner_main": "ca-app-pub-5315325291235997/",
+"inter_main": "ca-app-pub-5315325291235997/",
+"banner_setting_new": "",
+"inter_setting_new": "",
+"banner_main_new": "",
+"inter_main_new": "",
+"onlyAdmod": true,
+"onlyFB": false,
+"fb_banner": "",
+"fb_inter": "",
+"fb_banner_main": "",
+"fb_inter_main": "",
+"fb_native_banner": "",
+"c_id": "",
+"c_banner_setting": "",
+"c_banner_main": "",
+"c_inter_main": "",
+"c_inter_setting": ""
+},
+"app_exists": {
+"id": "com.king.candycrushsaga",
+"is_exists": true,
+"is_show_more": false,
+"isLoading": false,
+"isShowAds": false,
+"onlyAdsMe": false,
+"rate": true,
+"bg": "https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw",
+"in_app": false,
+    "in_app_close": false,
+    "bg_inapp": "",
+    "price": "After 59USD/week",
+    "isShowAdsAndInApp": false,
+    "in_app_new": false,
+    "timeClose":5000,
+    "BASE64_PUBLISH_KEY":""
+    },
+"apps": [
+{
+"id": "com.skybattles.amongus.games.mcpe.impostor.skywars.imposter",
+"icon": "",
+"des": "",
+"banner_250": "https://github.com/tranlong45200/Apps/raw/main/banner_250.png",
+"banner_50": "",
+"name": "",
+"inter": "",
+"s1": "",
+"s2": "",
+"s3": ""
+},
+{
+"id": "com.FNF.ILoveFNF.FiredaynightfunnyMod.FNFFiredaynightfunnyWhittyvsSeleverSimulatorTest.whitty.selever",
+"icon": "",
+"des": "",
+"banner_250": "https://raw.githubusercontent.com/tranlong45200/Friday-Night-Funny-Mod/main/banner_250.png",
+"banner_50": "",
+"name": "",
+"inter": "",
+"s1": "",
+"s2": "",
+"s3": ""
+}
+]
+}
