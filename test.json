@@ -6,7 +6,9 @@
 "oppen": "ca-app-pub-/9343593663",
 "ironsource_banner": "9343593663",
 "ironsource_inter": "9343593663",
-"ironsource_id": "11b18121d"
+"ironsource_id": "11b18121d",
+"onlyAdmod": false,
+"onlyIron": true,
 },
 "app_exists": {
 "id": "",
