@@ -1,0 +1,9 @@
+{
+    "banner_setting": "",
+    "banner_main": "",
+    "inter_setting": "",
+    "inter_main": "",
+    "isShowAds": true,
+    "timeShow"="3",
+    "percent": [50, 50, 50, 50, 50]
+}
