@@ -4,6 +4,6 @@
     "inter_setting": "",
     "inter_main": "",
     "isShowAds": true,
-    "timeShow"="3",
+    "timeShow"=3,
     "percent": [50, 50, 50, 50, 50]
 }
